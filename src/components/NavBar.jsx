@@ -6,7 +6,7 @@ export default function NavBar() {
         <div>
             <div>
                 <div>
-                    <img src="/public/" alt="" />
+                    <img src="/public/vite.svg" alt="" />
                 </div>
                 <span></span>
             </div>
