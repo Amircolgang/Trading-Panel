@@ -6,9 +6,25 @@ export default function NavBar() {
         <div>
             <div>
                 <div>
+                    <img src="" alt="" />
+                </div>
+                <span></span>
+            </div>
+            <div>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+            <div>
+                <div>
 
                 </div>
-                
+                <div>
+                    <img src="" alt="" />
+                </div>
             </div>
         </div>
     </>
