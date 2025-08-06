@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
-i
+import path
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
