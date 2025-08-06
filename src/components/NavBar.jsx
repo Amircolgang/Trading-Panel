@@ -11,7 +11,7 @@ export default function NavBar() {
                 <span></span>
             </div>
             <div>
-                <ul className='text-[#fff]'>
+                <ul className='flex gap-[] text-[#fff]'>
                     <li>Home </li>
                     <li>About</li>
                     <li>Trading</li>
@@ -20,7 +20,7 @@ export default function NavBar() {
             </div>
             <div>
                 <div>
-                    
+
                 </div>
                 <div>
                     <img src="" alt="" />
