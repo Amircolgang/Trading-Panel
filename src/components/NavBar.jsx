@@ -3,7 +3,7 @@ import React from 'react'
 export default function NavBar() {
   return (
     <>
-        <div className='  bg-[#111]'>
+        <div className='flex justify-between  bg-[#111]'>
             <div>
                 <div className='w-[25px] h-[25px]'>
                     <img className='w-[100%] h-[100%]' src="/public/vite.svg" alt="" />
@@ -11,11 +11,11 @@ export default function NavBar() {
                 <span></span>
             </div>
             <div>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                <ul className='text-[#fff]'>
+                    <li>Home </li>
+                    <li>About</li>
+                    <li>Trading</li>
+                    <li>Ai</li>
                 </ul>
             </div>
             <div>
