@@ -20,7 +20,7 @@ export default function NavBar() {
             </div>
             <div>
                 <div>
-
+                    
                 </div>
                 <div>
                     <img src="" alt="" />
