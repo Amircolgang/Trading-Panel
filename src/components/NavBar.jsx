@@ -3,10 +3,10 @@ import React from 'react'
 export default function NavBar() {
   return (
     <>
-        <div className='bg-[#0000]'>
+        <div className='  bg-[#111]'>
             <div>
-                <div>
-                    <img src="/public/vite.svg" alt="" />
+                <div className='w-[25px] h-[25px]'>
+                    <img className='w-[100%] h-[100%]' src="/public/vite.svg" alt="" />
                 </div>
                 <span></span>
             </div>
