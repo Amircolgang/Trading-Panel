@@ -3,7 +3,7 @@ import React from 'react'
 export default function NavBar() {
   return (
     <>
-        <div>
+        <div className='bg-[#0000]'>
             <div>
                 <div>
                     <img src="/public/vite.svg" alt="" />
