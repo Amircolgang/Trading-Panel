@@ -1,4 +1,5 @@
 import React from 'react'
+import { Button } from "../components/ui/button"
 export default function NavBar() {
     return (
         <>
@@ -10,7 +11,7 @@ export default function NavBar() {
                     <span className='text-[#fff]'>Shirazi Co.</span>
                 </div>
                 <div className='flex justify-center items-center '>
-                    <ul className='flex justify-center items-center list-none gap-[1.5rem] text-[#fff]'>           
+                    <ul className='flex justify-center items-center list-none gap-[1.5rem] text-[#fff]'>
                         <li>Home </li>
                         <li>About</li>
                         <li>Trading</li>
@@ -19,7 +20,7 @@ export default function NavBar() {
                 </div>
                 <div>
                     <div>
-
+                        <Button variant="default">کلیک کن</Button>
                     </div>
                     <div>
                         <img src="" alt="" />
